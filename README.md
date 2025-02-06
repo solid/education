@@ -11,8 +11,8 @@ Other existing education materials include:
 * https://www.cs.ox.ac.uk/news/2287-full.html
 
 2. Inrupts intro to Solid Videos:[ https://www.inrupt.com/videos
-](https://www.inrupt.com/videos)3. Noel De Martin (a Solid Developer) on Why Solid: https://noeldemartin.com/blog/why-solid
-
+](https://www.inrupt.com/videos)
+3. Noel De Martin (a Solid Developer) on Why Solid: https://noeldemartin.com/blog/why-solid
 4. Noel De Martin on Solid Developer Experience: https://www.youtube.com/watch?v=kPzhykRVDuI
 
 * Developer tutorials: https://solidproject.org/developers/tutorials/getting-started
