@@ -144,12 +144,6 @@ Ideas on workshop activity (todo: add more / a new workshop activity guide):
         - O.Team offers the [Solid-React-LDO tutorial](https://ldo.js.org/guides/solid_react/).
 	- Inrupt offers <https://docs.inrupt.com/developer-tools/javascript/client-libraries/tutorial/getting-started>
 - a guide: https://rdfjs.dev/solid 
-
-# Follow-up workshop ideas
-
-- How to self-host a Pod Provider
-- A short workshop series on how to implement your own (simple) Pod Provider
-- Additional workshops on creating Solid apps while learning more about the technologies, specs and theory
  
 # References
 
