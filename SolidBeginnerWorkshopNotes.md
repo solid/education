@@ -58,8 +58,10 @@ This should be accompanied with a Slide Deck for the presentation.
     - Any type of application can be built using the Solid Protocol.
     - Applications can make requests to retrieve data from your Pod (via your Pod Provider), and also to store data on your Pod. This is the essential part of how Solid works. 
         - Keep in mind that you ALWAYS control access of your files on your Pod, so you can revoke access to an application at any time. 
-    - Example of applications: <https://solidproject.org/apps>
-    - Example active funded projects:
+    - Catalog of applications, people, organizations, and other things in Solid:
+        - <https://solid-catalog.jeswr.org> or <https://solidproject.solidcommunity.net/catalog/>
+        - <https://solidproject.org/apps> 
+    - Example actively funded projects:
         - health care use case (name?) by Marc Haddle
         - ???
 
@@ -77,17 +79,17 @@ This should be accompanied with a Slide Deck for the presentation.
         Chat](https://solid.github.io/chat/), and lots more!
 
 - The authors of the technical reports are the [Solid Community
-    Group](https://www.w3.org/groups/cg/solid/) (CG) of the
+    Group](https://www.w3.org/groups/cg/solid/) (CG) and the Linked Web Storage Working Group (LWS WG) of the
     [W3C](https://www.w3.org/).
     - W3C is the World Wide Web Consortium: they *develop standards
         and guidelines to help everyone build a web based on the
         principles of accessibility, internationalization, privacy and
-        security.*
+        security.*. They endorse the Solid Project officially through the LWS Working Group.
 
 - Solid has a new organizational home, the Open Data Institute (ODI),
     as announced by Sir Tim Berners-Lee on October 2024. [Link to
     post](https://forum.solidproject.org/t/a-new-organisational-home-for-solid/8004)
-    - The ODI is a non-profit company that aims to build a world where
+    - The ODI is a non-profit institute that aims to build a world where
         data works for everyone. It was founded in 2012 by Sir Tim
         Berners-Lee and Sir Nigel Shadbolt.
 
@@ -98,6 +100,8 @@ This should be accompanied with a Slide Deck for the presentation.
     - Solid Practitioners Bi-Weekly meeting:
         - https://www.w3.org/events/meetings/ba3d6036-ef79-42f1-acc7-8ce9d3bc00ba/20271007T150000/
         - <https://www.w3.org/events/meetings/b2bcc109-a7e7-4e9c-ba9f-8dcd234e5275/20270916T150000/>
+    - Community Group (CG) meeting [https://www.w3.org/community/solid/](https://www.w3.org/community/solid/)
+    - SolidOS meetings [https://github.com/SolidOS/solidos](https://github.com/SolidOS/solidos) for those with some experience with Solid that want to contribute to SolidOS
     - Active community of Solid enthusiasts, developers from companies
         and non-profits!
 
@@ -132,8 +136,20 @@ This should be accompanied with a Slide Deck for the presentation.
 
 # Hands-on Activity
 
+The workshop activity ideally should involve creating a basic Solid application (eg. React to-do list app) using an existing Pod Provider.
+
+Ideas on workshop activity (todo: add more / a new workshop activity guide):
+
 - https://solidproject.org/developers/tutorials/getting-started
-	- https://docs.inrupt.com/developer-tools/javascript/client-libraries/tutorial/getting-started/ 
+        - O.Team offers the [Solid-React-LDO tutorial](https://ldo.js.org/guides/solid_react/).
+	- Inrupt offers <https://docs.inrupt.com/developer-tools/javascript/client-libraries/tutorial/getting-started>
+- a guide: https://rdfjs.dev/solid 
+
+# Follow-up workshop ideas
+
+- How to self-host a Pod Provider
+- A short workshop series on how to implement your own (simple) Pod Provider
+- Additional workshops on creating Solid apps while learning more about the technologies, specs and theory
  
 # References
 
