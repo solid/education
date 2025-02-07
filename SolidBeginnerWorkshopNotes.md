@@ -60,10 +60,7 @@ This should be accompanied with a Slide Deck for the presentation.
         - Keep in mind that you ALWAYS control access of your files on your Pod, so you can revoke access to an application at any time. 
     - Catalog of applications, people, organizations, and other things in Solid:
         - <https://solid-catalog.jeswr.org> or <https://solidproject.solidcommunity.net/catalog/>
-        - <https://solidproject.org/apps> 
-    - Example actively funded projects:
-        - health care use case (name?) by Marc Haddle
-        - ???
+        - <https://solidproject.org/apps>
 
 ## Solid in context
 
